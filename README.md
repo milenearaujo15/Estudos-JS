@@ -4,8 +4,9 @@ Este repositório contém meus estudos de JavaScript, desde exercícios básicos
 
 ## Estrutura
 
-- **Lógicas Básicas**  
+- **Lógicas Básicas**
   Exercícios para praticar conceitos fundamentais de JavaScript, como operadores, loops, condicionais e funções simples.
+  -  Adição de alguns desafios, que funcionam como mini projetospara estudo
 
 - **High Order Functions**  
   Exercícios e projetos utilizando funções de alta ordem (map, filter, reduce, forEach, etc).  
